@@ -1,0 +1,7 @@
+first line
+3.5
+10
+20
+544
+third string
+*invalid statement
